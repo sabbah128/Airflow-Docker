@@ -43,8 +43,7 @@ mkdir -p ./dags ./logs ./plugins ./config
 
 6- Download and save below link in your Python editor.
 
-
-    [https://airflow.apache.org/docs/apache-airflow/2.9.1/docker-compose.yaml]()
+[https://airflow.apache.org/docs/apache-airflow/2.9.1/docker-compose.yaml]( "docker compose file")
 
 7- Inactive dag examples in docker-compose.yaml.
 
