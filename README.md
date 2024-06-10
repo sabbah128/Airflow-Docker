@@ -47,9 +47,7 @@ https://airflow.apache.org/docs/apache-airflow/2.9.1/docker-compose.yaml
 
 7- Inactive dag examples in docker-compose.yaml.
 
-```
- AIRFLOW__CORE__LOAD_EXAMPLES: 'true' >> 'false'
-```
+AIRFLOW__CORE__LOAD_EXAMPLES: 'true' >> 'false'
 
 8- Run docker compose command. (It takes some time)
 
