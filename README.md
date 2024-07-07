@@ -58,7 +58,7 @@ docker compose up airflow-init
 9- After completing the last step successfully, run the following code to create containers.
 
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 10- Open your browser and connect to the airflow port.
